@@ -22,8 +22,8 @@
 <br/> -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KaneAdams-Dev&theme=react&hide_border=false&include_all_commits=false&count_private=false) 
-![](https://nirzak-streak-stats.vercel.app/?user=KaneAdams-Dev&theme=react&hide_border=false&exclude_days=Sun%2CSat) 
+![](https://github-readme-stats.vercel.app/api?username=KaneAdams-Dev&theme=react&hide_border=false&include_all_commits=false&count_private=false)  <br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KaneAdams-Dev&theme=react&hide_border=false&exclude_days=Sun%2CSat) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaneAdams-Dev&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- ## 🌐 Socials
