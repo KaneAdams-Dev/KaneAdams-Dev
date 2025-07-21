@@ -28,6 +28,22 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=KaneAdams-Dev&theme=react&hide_border=false&exclude_days=Sun%2CSat) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaneAdams-Dev&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📺 Featured YouTube Videos
+<!-- [![Mobbers Teaser](https://ytcards.demolab.com/?id=J1MvMSvuErI&title=Mobbers+Teaser&lang=en&timestamp=1685574000&background_color=%230d11117&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=71 
+"Mobbers Teaser")](https://youtu.be/J1MvMSvuErI?si=b9Se2qPN-T_Q5rCV) -->
+[![Survivor Horde WebGL | Zombeez Game Jam](https://ytcards.demolab.com/?id=5-mntIYjTW4&title=Survivor+Horde+WebGL+|+Zombeez+Game+Jam&lang=en&timestamp=1748175428&background_color=%230d11117&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=430 
+"Survivor Horde WebGL | Zombeez Game Jam")](https://youtu.be/5-mntIYjTW4?si=MWpQZflnqajXT1kF)
+[![Mobberville Trailer](https://ytcards.demolab.com/?id=LFoeC7F4Fp8&title=Mobberville+Trailer&lang=en&timestamp=1691967600&background_color=%230d11117&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=78 
+"Mobberville Trailer")](https://youtu.be/LFoeC7F4Fp8?si=-wrwY_cGjOV42PiY)
+[![Terrain Generator | MSc Games Development Procedural Content Generation](https://ytcards.demolab.com/?id=9aKPFRy4TLM&title=Terrain+Generator+|+MSc+Games+Development+Procedural+Content+Generation&lang=en&timestamp=1747310400&background_color=%230d11117&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=484 
+"Terrain Generator | MSc Games Development Procedural Content Generation")](https://youtu.be/9aKPFRy4TLM?si=7aBc-7ax_FU62AsZ)
+[![Tales of Rambleon - COMX Preview](https://ytcards.demolab.com/?id=6H6Bc4FjRUE&title=Tales+of+Rambleon+-+COMX+Preview&lang=en&timestamp=1653865200&background_color=%230d11117&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=97 
+"Tales of Rambleon - COMX Preview")](https://youtu.be/6H6Bc4FjRUE?si=j_t6jt19yy4HW3tn)
+[![UnityML Agents Training | CT7121 Machine Learning Training Video](https://ytcards.demolab.com/?id=DfMTvRaegnI&title=UnityML+Agents+Training+|+CT7121+Machine+Learning+Training+Video&lang=en&timestamp=1747570628&background_color=%230d11117&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=698 
+"UnityML Agents Training | CT7121 Machine Learning Training Video")](https://youtu.be/DfMTvRaegnI?si=M3x2pIlmsBfCuADW)
+[![Tutorial Demo | Art is Opinion](https://ytcards.demolab.com/?id=kkX9qSSwNFs&title=Art+is+Opinion+Tutorial+Demo&lang=en&timestamp=1623020400&background_color=%230d11117&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=424 
+"Tutorial Demo | Art is Opinion")](https://youtu.be/kkX9qSSwNFs?feature=shared)
+
 <!-- ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kane-adams/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/KaneA_Dev) -->
 
