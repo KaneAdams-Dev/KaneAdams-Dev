@@ -2,14 +2,16 @@
 
 #### Developer with a focus on Unity and C#, combining technical design thinking with hands-on experience across gameplay, UI, and web projects.
 
-# 💫 About Me
+
+## 💫 About Me
 
 🎓 Master's in Games Development with a focus on games programming <br/>
 💼 Currently developing boss AI  for [Mobbers](https://store.steampowered.com/app/2452590/Mobbers/) with my indie team [Septagram Games](https://x.com/septagramgames) <br/>
 🌱 Learning to port and release games for multiple platforms <br/>
 ⚡ _Fun fact:_ I've taught game dev to kids for 10 years - ranging from Scratch to Unity <br/>
 
-# 💻 Tech Stack
+
+## 💻 Tech Stack
 <!-- Languages -->
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  <!-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) --> ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 <br/> <!-- Engines & Framework -->
@@ -23,12 +25,12 @@
 
 <!-- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) -->
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KaneAdams-Dev&theme=react&hide_border=false&include_all_commits=false&count_private=false)  <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KaneAdams-Dev&theme=react&hide_border=false&exclude_days=Sun%2CSat) <br/>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KaneAdams-Dev&theme=react&hide_border=false&include_all_commits=false&count_private=false&hide=prs&show_icons=true) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaneAdams-Dev&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=KaneAdams-Dev&theme=react&hide_border=false&exclude_days=Sun%2CSat)
 
-# 📺 Featured YouTube Videos
+## 📺 Featured YouTube Videos
 <!-- [![Mobbers Teaser](https://ytcards.demolab.com/?id=J1MvMSvuErI&title=Mobbers+Teaser&lang=en&timestamp=1685574000&background_color=%230d11117&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=71 
 "Mobbers Teaser")](https://youtu.be/J1MvMSvuErI?si=b9Se2qPN-T_Q5rCV) -->
 [![Survivor Horde WebGL | Zombeez Game Jam](https://ytcards.demolab.com/?id=5-mntIYjTW4&title=Survivor+Horde+WebGL+|+Zombeez+Game+Jam&lang=en&timestamp=1748175428&background_color=%230d11117&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=430 
@@ -44,9 +46,9 @@
 [![Tutorial Demo | Art is Opinion](https://ytcards.demolab.com/?id=kkX9qSSwNFs&title=Art+is+Opinion+Tutorial+Demo&lang=en&timestamp=1623020400&background_color=%230d11117&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=424 
 "Tutorial Demo | Art is Opinion")](https://youtu.be/kkX9qSSwNFs?feature=shared)
 
-<!-- ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kane-adams/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/KaneA_Dev) -->
-
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kane-adams/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/KaneA_Dev)
+          
 <!--
 **KaneAdams-Dev/KaneAdams-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
